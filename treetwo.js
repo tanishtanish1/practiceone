@@ -1,4 +1,4 @@
 //cypress
 //slenenium
 //automation
-//comments -verify code
+//comments -verify codeclear
